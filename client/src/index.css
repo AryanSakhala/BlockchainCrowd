@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(-45deg, #0b1c34 1px, transparent 8px), #F5F5DC;
+  background-size: 20px 20px;
+}
+
+
+.Layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.Main {
+  width: 80%;
+  max-width: 600px;
+  padding: 20px;
+  background-color: #966f33;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: beige;
+}
